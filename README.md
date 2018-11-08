@@ -10,12 +10,21 @@ A collection of awesome things regarding Frameworkless
 
 ## Decision Making
 
+### Posts
+
+* [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d)
+* [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html)
 * [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019)
 * [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022)
-* [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d)
-* [ViennaJS Semptermber 2018: Framework Compass Chart](https://youtu.be/buFMbKRAUs8)
+
+### Videos
+
+* [ViennaJS Semptermber 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8)
+
 
 ## JavaScript
+
+### Posts
 
 * [A modern JavaScript router in 100 lines](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url)
 * [Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776)
