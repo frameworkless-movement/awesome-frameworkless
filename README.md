@@ -30,3 +30,11 @@ A collection of awesome things regarding Frameworkless
 * [Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776)
 * [What’s the Document Object Model, and why you should know how to use it](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
 
+
+## Java
+
+### Examples
+
+ * [Going #frameworkless in the backend repository](https://github.com/xpmatteo/frameworkless-hangman)
+
+
