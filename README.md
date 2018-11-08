@@ -10,6 +10,8 @@ A collection of awesome things regarding Frameworkless
 
 ## Decision Making
 
+* [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019)
+* [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022)
 * [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d)
 * [ViennaJS Semptermber 2018: Framework Compass Chart](https://youtu.be/buFMbKRAUs8)
 
