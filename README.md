@@ -6,7 +6,7 @@
 
 
 
-A collection of awesome things regarding [Frameworkless](http://frameworklessmovement.org/)
+A collection of awesome things regarding [Frameworkless](https://github.com/frameworkless-movement/manifesto)
 
 ## Contents
 * [Decision Making](#decision-making)
