@@ -17,27 +17,27 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Posts
 
-* [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d)
-* [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html)
-* [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019)
-* [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022)
+* [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d) - A tool to choose a framework for your next project
+* [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html) - Thoughts of Uncle Bob about Frameworks
+* [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019) - Thoughts of Matteo Vaccari about Frameworks
+* [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022) - Thoughts of Matteo Vaccari about Frameworks
 
 ### Videos
 
-* [ViennaJS Semptermber 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8)
+* [ViennaJS Semptermber 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8) - A tool to choose a framework for your next project
 
 
 ## Java
 
 ### Examples
 
- * [Going #frameworkless in the backend repository](https://github.com/xpmatteo/frameworkless-hangman)
+ * [Going #frameworkless in the backend repository](https://github.com/xpmatteo/frameworkless-hangman) - How to take a common Spring-Boot-based microservice and change it to not need Spring anymore
 
 
 ## JavaScript
 
 ### Posts
 
-* [A modern JavaScript router in 100 lines](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url)
-* [Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776)
-* [What’s the Document Object Model, and why you should know how to use it](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d)
+* [A modern JavaScript router in 100 lines](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url) - How to create a router for a single page application
+* [Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776) - How to use JavaScript Proxy to create a reactive architecture
+* [What’s the Document Object Model, and why you should know how to use it](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d) - An introduction about Document Object Model and how to manipulate it
