@@ -42,7 +42,5 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776) - How to use JavaScript Proxy to create a reactive architecture
 * [What’s the Document Object Model, and why you should know how to use it](https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d) - An introduction about Document Object Model and how to manipulate it
 * [Developing small JavaScript components WITHOUT frameworks](https://jack.ofspades.com/developing-small-javascript-components-without-frameworks/) - How to create JavaScript components ([Part 2](https://jack.ofspades.com/frameworkless-javascript-part-2-templates-and-rendering/), [Part 3](https://jack.ofspades.com/frameworkless-javascript-part-3-one-way-data-binding/))
-
-### Examples
-
- * [A Simple, Light and Frameworkless web-component, declared as a custom HTML element](https://github.com/vpellegrino/parking-widget) - This tiny project represents a proof of value, following TDD approach, about the possibility to realize interesting UI widget without use any framework (VanillaJS).
+* [A Simple, Light and Frameworkless web-component, declared as a custom HTML element](https://github.com/vpellegrino/parking-widget) - This tiny project represents a proof of value, following TDD approach, about the possibility to realize interesting UI widget without use any framework (VanillaJS).
+* [Frameworkless Web Development](https://dev.to/misomir/frameworkless-web-development-3n2h) - How to create reusable Web Components in JavaScript using no framework
