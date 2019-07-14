@@ -27,11 +27,14 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [ViennaJS Semptermber 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8) - A tool to choose a framework for your next project
 
 
-## Java
+## Backend
 
 ### Examples
 
- * [Going #frameworkless in the backend repository](https://github.com/xpmatteo/frameworkless-hangman) - How to take a common Spring-Boot-based microservice and change it to not need Spring anymore
+ * [8 lines of code](https://www.infoq.com/presentations/8-lines-code-refactoring/) - Greg Young: How to organize code so that we don't need most of the magic provided by frameworks: IoC containers or AoP and dynamic proxies
+
+ * *Going #frameworkless in the backend*: [video](https://www.youtube.com/watch?v=hepg9freOxg), [slides](https://www.slideshare.net/xpmatteo/going-frameworkless-in-the-backend), [repository](https://github.com/xpmatteo/frameworkless-hangman) - Matteo Vaccari: how to take a common Spring-Boot-based microservice and change it to not need Spring anymore
+
 
 
 ## JavaScript
