@@ -49,3 +49,4 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [A Simple, Light and Frameworkless web-component, declared as a custom HTML element](https://github.com/vpellegrino/parking-widget) - This tiny project represents a proof of value, following TDD approach, about the possibility to realize interesting UI widget without use any framework (VanillaJS).
 * [Frameworkless Web Development](https://dev.to/misomir/frameworkless-web-development-3n2h) - How to create reusable Web Components in JavaScript using no framework
 * [Frameworkless SPA](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c) - Frameworkless Single Page Application: From Theory to Implementation
+* [You Don’t Need a JavaScript Framework](https://medium.com/better-programming/you-dont-need-a-javascript-framework-df2a36c2dd0a)
