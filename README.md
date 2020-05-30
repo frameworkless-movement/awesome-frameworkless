@@ -41,6 +41,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Posts
 
+* [Make a simple spa without any frameworks, transpilers or routers](https://dev.to/rishavs/making-a-single-page-app-in-ye-good-olde-js-es6-3eng)
 * [Vanilla JavaScript and HTML - No frameworks. No libraries. No problem](https://dev.to/pluralsight/vanilla-javascript-and-html-no-frameworks-no-libraries-no-problem-2n99)
 * [A modern JavaScript router in 100 lines](http://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url) - How to create a router for a single page application
 * [Create a fully Reactive UI Framework with JavaScript Proxies and Virtual DOM](https://medium.com/@TheStrazz86/create-a-fully-reactive-ui-framework-with-javascript-proxies-and-virtual-dom-c6fb28253776) - How to use JavaScript Proxy to create a reactive architecture
