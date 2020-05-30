@@ -51,3 +51,4 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [Frameworkless Web Development](https://dev.to/misomir/frameworkless-web-development-3n2h) - How to create reusable Web Components in JavaScript using no framework
 * [Frameworkless SPA](https://medium.com/@a.jafari.90/framework-less-single-page-application-a547325f6e0c) - Frameworkless Single Page Application: From Theory to Implementation
 * [You Don’t Need a JavaScript Framework](https://medium.com/better-programming/you-dont-need-a-javascript-framework-df2a36c2dd0a)
+* [HTML web components using Vanilla JavaScript](https://ayushgp.github.io/html-web-components-using-vanilla-js/)
