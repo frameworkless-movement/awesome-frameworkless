@@ -12,6 +12,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [Decision Making](#decision-making)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [PHP](#php)
 
 ## Decision Making
 
@@ -53,3 +54,13 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [You Don’t Need a JavaScript Framework](https://medium.com/better-programming/you-dont-need-a-javascript-framework-df2a36c2dd0a)
 * [HTML web components using Vanilla JavaScript](https://ayushgp.github.io/html-web-components-using-vanilla-js/)
 * [Master the DOM](https://medium.com/re-dom/master-the-dom-bc1a2a06089b) - Master the DOM: It’s not as hard as you might think
+
+## PHP
+
+### Posts
+
+* [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework)
+* [A small tutorial to show how to create a PHP application without a framework](https://github.com/PatrickLouys/no-framework-tutorial)
+* [Frameworkless foundation of your PHP application](https://lessthan12ms.com/frameworkless-foundation-of-your-php-application.html)
+* [Write modern PHP without a framework](https://medium.com/@dhgouveia/write-modern-php-without-framework-d244d8ca2b50)
+
