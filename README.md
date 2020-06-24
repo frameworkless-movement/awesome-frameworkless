@@ -64,3 +64,5 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [Frameworkless foundation of your PHP application](https://lessthan12ms.com/frameworkless-foundation-of-your-php-application.html)
 * [Write modern PHP without a framework](https://medium.com/@dhgouveia/write-modern-php-without-framework-d244d8ca2b50)
 
+### Examples
+* [stefanotorresi/frameworkless-php-boilerplate](https://github.com/stefanotorresi/frameworkless-php-boilerplate)
