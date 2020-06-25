@@ -25,7 +25,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Videos
 
-* [ViennaJS Semptermber 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8) - A tool to choose a framework for your next project
+* [ViennaJS September 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8) - A tool to choose a framework for your next project
 
 
 ## Backend
