@@ -36,7 +36,11 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
  * *Going #frameworkless in the backend*: [video](https://www.youtube.com/watch?v=hepg9freOxg), [slides](https://www.slideshare.net/xpmatteo/going-frameworkless-in-the-backend), [repository](https://github.com/xpmatteo/frameworkless-hangman) - Matteo Vaccari: how to take a common Spring-Boot-based microservice and change it to not need Spring anymore
 
+## Java
 
+### Posts
+* [Dependency Injection Containers are Code Polluters](https://www.yegor256.com/2014/10/03/di-containers-are-evil.html) - by [@yegor256](https://github.com/yegor256): How DI containers violate OOP and add boilerplate
+* [No DI containers, please](https://www.pragmaticobjects.com/chapters/007_di_containers.html) - by [@skapral](https://github.com/skapral/): Desing damages of having an application configured by DI
 
 ## JavaScript
 
