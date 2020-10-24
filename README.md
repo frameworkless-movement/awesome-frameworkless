@@ -75,3 +75,4 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Examples
 * [stefanotorresi/frameworkless-php-boilerplate](https://github.com/stefanotorresi/frameworkless-php-boilerplate)
+* [ray-ang/basicphp](https://github.com/ray-ang/basicphp)
