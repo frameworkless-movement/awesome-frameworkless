@@ -22,6 +22,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html) - Thoughts of Uncle Bob about Frameworks
 * [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019) - Thoughts of Matteo Vaccari about Frameworks
 * [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022) - Thoughts of Matteo Vaccari about Frameworks
+* [Why I Hate Frameworks](https://web.archive.org/web/20051230225515/http://discuss.joelonsoftware.com/default.asp?joel.3.219431) - by [Benji Smith](https://www.benjismith.net/)
 
 ### Videos
 
