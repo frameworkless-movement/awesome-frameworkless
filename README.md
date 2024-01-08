@@ -19,9 +19,9 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 ### Posts
 
 * [Framework Compass Chart](https://medium.com/@TheStrazz86/framework-compass-chart-d3851c25b45d) - A tool to choose a framework for your next project
-* [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html) - Thoughts of Uncle Bob about Frameworks
-* [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019) - Thoughts of Matteo Vaccari about Frameworks
-* [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022) - Thoughts of Matteo Vaccari about Frameworks
+* [Make the Magic go away](https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html) - Thoughts from Uncle Bob about Frameworks
+* [No Frameworks, Part 1](http://matteo.vaccari.name/blog/archives/1019) - Thoughts from Matteo Vaccari about Frameworks
+* [No Frameworks, Part 2](http://matteo.vaccari.name/blog/archives/1022) - Thoughts from Matteo Vaccari about Frameworks
 
 ### Videos
 
@@ -40,7 +40,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Posts
 * [Dependency Injection Containers are Code Polluters](https://www.yegor256.com/2014/10/03/di-containers-are-evil.html) - by [@yegor256](https://github.com/yegor256): How DI containers violate OOP and add boilerplate
-* [No DI containers, please](https://www.pragmaticobjects.com/chapters/007_di_containers.html) - by [@skapral](https://github.com/skapral/): Desing damages of having an application configured by DI
+* [No DI containers, please](https://www.pragmaticobjects.com/chapters/007_di_containers.html) - by [@skapral](https://github.com/skapral/): Desing damages from having an application configured by DI
 * A series of blog posts by [Alessio Coser](https://www.alessiocoser.com/) about decoding the magic of Spring Boot: [Configuration](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-1-configuration/), [HTTP Routing](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-2-http-routing/), [Tests](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-3-tests/), [Dependencies](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-4-dependencies/)
 
 ## JavaScript
