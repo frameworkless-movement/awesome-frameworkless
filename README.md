@@ -12,6 +12,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [Decision Making](#decision-making)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Go](#go)
 * [PHP](#php)
 
 ## Decision Making
@@ -59,6 +60,9 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [You Don’t Need a JavaScript Framework](https://medium.com/better-programming/you-dont-need-a-javascript-framework-df2a36c2dd0a)
 * [HTML web components using Vanilla JavaScript](https://ayushgp.github.io/html-web-components-using-vanilla-js/)
 * [Master the DOM](https://medium.com/re-dom/master-the-dom-bc1a2a06089b) - Master the DOM: It’s not as hard as you might think
+
+## Go
+* [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
 
 ## PHP
 
