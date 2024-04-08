@@ -80,3 +80,4 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Examples
 * [stefanotorresi/frameworkless-php-boilerplate](https://github.com/stefanotorresi/frameworkless-php-boilerplate)
+* [Template/boilerplate for frameworkless Node.js+GraphQL application](https://github.com/app/node-graphql-frameworkless)
