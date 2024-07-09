@@ -1,4 +1,4 @@
-# Awesome Frameworkless 
+# Awesome Frameworkless
 
 [![framework less](http://frameworklessmovement.org/img/frameworkless__badge-github.svg)](https://github.com/frameworkless-movement/manifesto)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -60,6 +60,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [You Don’t Need a JavaScript Framework](https://medium.com/better-programming/you-dont-need-a-javascript-framework-df2a36c2dd0a)
 * [HTML web components using Vanilla JavaScript](https://ayushgp.github.io/html-web-components-using-vanilla-js/)
 * [Master the DOM](https://medium.com/re-dom/master-the-dom-bc1a2a06089b) - Master the DOM: It’s not as hard as you might think
+* [On Frameworkless JavaScript](https://tales.mbivert.com/on-frameworkless-js/#comparison-with-react) - Create UIs with a simple VanillaJS pattern; compared with React on its tic-tac-toe tutorial
 
 ### Examples
 * [Template/boilerplate for frameworkless Node.js+GraphQL application](https://github.com/app/node-graphql-frameworkless)
