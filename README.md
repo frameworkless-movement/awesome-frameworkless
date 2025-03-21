@@ -68,6 +68,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ## Go
 * [The Best Go framework: no framework?](https://threedots.tech/post/best-go-framework/)
+* [When you should not use frameworks](https://threedots.tech/episode/when-you-should-not-use-frameworks/)
 
 ## PHP
 
