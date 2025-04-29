@@ -29,19 +29,13 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 * [ViennaJS September 2018 - Framework Compass Chart](https://youtu.be/buFMbKRAUs8) - A tool to choose a framework for your next project
 
 
-## Backend
-
-### Examples
+## Java
 
  * [8 lines of code](https://www.infoq.com/presentations/8-lines-code-refactoring/) - Greg Young: How to organize code so that we don't need most of the magic provided by frameworks: IoC containers or AoP and dynamic proxies
 
  * *Going #frameworkless in the backend*: [video](https://www.youtube.com/watch?v=hepg9freOxg), [slides](https://www.slideshare.net/xpmatteo/going-frameworkless-in-the-backend), [repository](https://github.com/xpmatteo/frameworkless-hangman) - Matteo Vaccari: how to take a common Spring-Boot-based microservice and change it to not need Spring anymore
 
-## Java
-
-### Posts
 * [Dependency Injection Containers are Code Polluters](https://www.yegor256.com/2014/10/03/di-containers-are-evil.html) - by [@yegor256](https://github.com/yegor256): How DI containers violate OOP and add boilerplate
-* [No DI containers, please](https://www.pragmaticobjects.com/chapters/007_di_containers.html) - by [@skapral](https://github.com/skapral/): Desing damages from having an application configured by DI
 * A series of blog posts by [Alessio Coser](https://www.alessiocoser.com/) about decoding the magic of Spring Boot: [1. Configuration](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-1-configuration/), [2. HTTP Routing](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-2-http-routing/), [3, Tests](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-3-tests/), [4. Dependencies](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-4-dependencies/), [5. The framework itself](https://www.alessiocoser.com/escaping-the-magic-of-the-frameworks-5-the-framework/)
 
 ## JavaScript
