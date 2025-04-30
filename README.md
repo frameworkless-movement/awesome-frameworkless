@@ -42,6 +42,10 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 * Francesco Strazzullo's book [Frameworkless Front-End Development](https://www.goodreads.com/book/show/45288137-frameworkless-front-end-development)
 
+### Course
+
+* [frameworkless.js](https://frameworkless.js.org/) by Mike Timofiiv
+
 ### Posts
 
 * [Make a simple spa without any frameworks, transpilers or routers](https://dev.to/rishavs/making-a-single-page-app-in-ye-good-olde-js-es6-3eng)
