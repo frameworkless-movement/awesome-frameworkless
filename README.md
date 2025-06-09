@@ -46,6 +46,10 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 * [frameworkless.js](https://frameworkless.js.org/) by Mike Timofiiv
 
+### UI Library
+
+* [Corex](https://netoum.com/corex/documentation/introduction.html) A Pure HTML, Vanilla JS &  CSS UI Component Library
+
 ### Posts
 
 * [Make a simple spa without any frameworks, transpilers or routers](https://dev.to/rishavs/making-a-single-page-app-in-ye-good-olde-js-es6-3eng)
