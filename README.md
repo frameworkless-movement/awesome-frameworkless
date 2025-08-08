@@ -46,6 +46,10 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 * [frameworkless.js](https://frameworkless.js.org/) by Mike Timofiiv
 
+### Kit
+
+* [https://github.com/p-it-nl/vanilla-kit] A minimalist, dependency-light vanilla JS starter kit — framework-free and no node modules required.
+
 ### UI Library
 
 * [Corex](https://netoum.com/corex/documentation/introduction.html) A Pure HTML, Vanilla JS &  CSS UI Component Library
