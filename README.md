@@ -48,7 +48,7 @@ A collection of awesome things regarding [Frameworkless](https://github.com/fram
 
 ### Kit
 
-* [https://github.com/p-it-nl/vanilla-kit] A minimalist, dependency-light vanilla JS starter kit — framework-free and no node modules required.
+* [VanillaKit](https://github.com/p-it-nl/vanilla-kit) A minimalist, dependency-light vanilla JS starter kit — framework-free and no node modules required.
 
 ### UI Library
 
